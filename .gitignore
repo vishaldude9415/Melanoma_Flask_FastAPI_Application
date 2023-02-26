@@ -1,0 +1,22 @@
+# dependencies
+/node_modules
+
+# production build output
+/dist
+
+# local development environment
+/.env
+
+# logs
+/log*
+
+# user uploads
+/uploads
+
+# IDE files
+.vscode
+.idea
+
+# misc
+.DS_Store
+Thumbs.db
